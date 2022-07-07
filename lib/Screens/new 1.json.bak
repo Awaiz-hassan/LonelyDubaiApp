@@ -1,0 +1,49 @@
+{
+  "1112222333344455566699887755000033221861565468654684684561asasdewefdsfsfesgsvscfvxcgdsd": {
+    "category": "fastfood",
+    "description": "Description",
+    "id": "1112222333344455566699887755000033221861565468654684684561asasdewefdsfsfesgsvscfvxcgdsd",
+    "image": "https://firebasestorage.googleapis.com/v0/b/chaandtaarafoodrider-183f1.appspot.com/o/food_images%2Fimage_2022_06_10T07_23_21_385Z.png?alt=media&token=ef907879-a3fc-4990-b419-eeb89a73ea75",
+    "name": "Zinger Burger",
+    "price": "350",
+    "searchName": "zinger burger"
+  }
+  
+  
+  
+  
+  
+  "3112222333344455566699887755000033221861565468654684684561asasdewefdsfsfesgsvscfvxcgdsd": {
+    "category": "desifood",
+    "description": "Description",
+    "id": "3112222333344455566699887755000033221861565468654684684561asasdewefdsfsfesgsvscfvxcgdsd",
+    "image": "https://satyamskitchen.com/wp-content/uploads/2021/03/chicken_karahi_background_1_60-e1615515187927-700x525.jpg",
+    "name": "Chicken Karahi 1kg",
+    "price": "1050",
+    "searchName": "chicken karahi 1kg"
+  }
+  
+  
+  "4112222333344455566699887755000033221861565468654684684561asasdewefdsfsfesgsvscfvxcgdsd": {
+    "category": "bbq",
+    "description": "Description",
+    "id": "4112222333344455566699887755000033221861565468654684684561asasdewefdsfsfesgsvscfvxcgdsd",
+    "image": "https://www.whiskaffair.com/wp-content/uploads/2020/06/Chicken-Tikka-2-3.jpg",
+    "name": "Chicken Tikka",
+    "price": "350",
+    "searchName": "chicken tikka"
+  }
+  
+  
+  "5112222333344455566699887755000033221861565468654684684561asasdewefdsfsfesgsvscfvxcgdsd": {
+    "category": "meat",
+    "description": "Description",
+    "id": "5112222333344455566699887755000033221861565468654684684561asasdewefdsfsfesgsvscfvxcgdsd",
+    "image": "https://cdn.debragga.com/pub/media/mageplaza/blog/post/d/e/det-how-to-cook-a-rib-chop_1.jpg",
+    "name": "Beef",
+    "price": "350",
+    "searchName": "beef"
+  }
+  
+  
+}
